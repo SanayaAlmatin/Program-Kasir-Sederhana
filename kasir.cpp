@@ -10,7 +10,7 @@ int main() {
 	char opt = 'Y';
 	
 	cout<<"Price List Item : ";
-	cout<<"\n1. Biore Body Wash = Rp 2000 \n2. Rinso = Rp 11000 \n3. Indomie Goreng = Rp 3000"<<endl;
+	cout<<"\n1. Biore Body Wash = Rp 2000 \n2. Rinso = Rp 11000 \n3. Indomie Goreng Rendang = Rp 3000"<<endl;
 	
 	
 	change = cash - Tp2;
